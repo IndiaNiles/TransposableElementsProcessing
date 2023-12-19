@@ -1,0 +1,1193 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+Asuec_chr_1:14256248..14258350#DNA/DTC|Asuec_chr_1:14256248..14258350#DNA/DTC	LTR	Gypsy	Reina	no	+	GAG|Reina
+Asuec_chr_1:14335045..14337634#DNA/DTC|Asuec_chr_1:14335045..14337634#DNA/DTC	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+Asuec_chr_1:14343272..14346506#DNA/DTM|Asuec_chr_1:14343272..14346506#DNA/DTM	LTR	Gypsy	Athila	no	-	GAG|Athila
+Asuec_chr_1:16159098..16163769#DNA/DTC|Asuec_chr_1:16159098..16163769#DNA/DTC	LTR	Copia	Ale	no	-	GAG|Ale
+Asuec_chr_1:16578664..16580424#DNA/DTC|Asuec_chr_1:16578664..16580424#DNA/DTC	LINE	unknown	unknown	unknown	-	RT|LINE
+Asuec_chr_10:10133362..10137256#LTR/Copia|Asuec_chr_10:10133362..10137256#LTR/Copia	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana
+Asuec_chr_10:13751253..13755294#LTR/Copia|Asuec_chr_10:13751253..13755294#LTR/Copia	LTR	Copia	Ivana	no	+	GAG|Ivana INT|Ivana PROT|Ivana RH|Ivana
+Asuec_chr_10:15141259..15146875#LTR/unknown|Asuec_chr_10:15141259..15146875#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM
+Asuec_chr_10:1591144..1600017#LTR/Gypsy|Asuec_chr_10:1591144..1600017#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Asuec_chr_10:4133898..4137635#LTR/Copia|Asuec_chr_10:4133898..4137635#LTR/Copia	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana
+Asuec_chr_10:4671396..4675110#DNA/DTM|Asuec_chr_10:4671396..4675110#DNA/DTM	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+Asuec_chr_10:4932742..4937529#LTR/Copia|Asuec_chr_10:4932742..4937529#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+Asuec_chr_10:5623189..5627547#LTR/unknown|Asuec_chr_10:5623189..5627547#LTR/unknown	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Asuec_chr_10:5623884..5627303#DNA/DTM|Asuec_chr_10:5623884..5627303#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Asuec_chr_10:5673804..5691293#LTR/Gypsy|Asuec_chr_10:5673804..5691293#LTR/Gypsy	LTR	Gypsy	Athila	no	?	PROT|Athila GAG|Athila
+Asuec_chr_10:5816539..5824009#LTR/Gypsy|Asuec_chr_10:5816539..5824009#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Asuec_chr_10:7857456..7859780#LTR/unknown|Asuec_chr_10:7857456..7859780#LTR/unknown	LTR	Copia	Ivana	no	-	PROT|Ivana
+Asuec_chr_11:10558634..10564067#LTR/Copia|Asuec_chr_11:10558634..10564067#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_11:11632704..11638396#LTR/unknown|Asuec_chr_11:11632704..11638396#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM
+Asuec_chr_11:11632920..11637357#DNA/DTM|Asuec_chr_11:11632920..11637357#DNA/DTM	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+Asuec_chr_11:12380037..12385094#LTR/unknown|Asuec_chr_11:12380037..12385094#LTR/unknown	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+Asuec_chr_11:12516600..12525407#LTR/Gypsy|Asuec_chr_11:12516600..12525407#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Asuec_chr_11:12602096..12611109#LTR/Gypsy|Asuec_chr_11:12602096..12611109#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Asuec_chr_11:12679986..12685589#LTR/Copia|Asuec_chr_11:12679986..12685589#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_11:13270505..13277961#LTR/Gypsy|Asuec_chr_11:13270505..13277961#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Asuec_chr_11:16088512..16090428#DNA/DTM|Asuec_chr_11:16088512..16090428#DNA/DTM	LTR	Copia	Ivana	no	-	RT|Ivana RH|Ivana
+Asuec_chr_11:16521841..16527749#LTR/unknown|Asuec_chr_11:16521841..16527749#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+Asuec_chr_11:7087221..7089569#LTR/unknown|Asuec_chr_11:7087221..7089569#LTR/unknown	LTR	Copia	Ivana	no	-	PROT|Ivana
+Asuec_chr_11:8192737..8197365#LTR/Copia|Asuec_chr_11:8192737..8197365#LTR/Copia	LTR	Copia	TAR	no	+	PROT|TAR INT|TAR RT|TAR RH|TAR
+Asuec_chr_11:8382573..8386822#DNA/DTC|Asuec_chr_11:8382573..8386822#DNA/DTC	LTR	Copia	Ivana	no	+	GAG|Ivana
+Asuec_chr_12:10345487..10348086#DNA/DTM|Asuec_chr_12:10345487..10348086#DNA/DTM	LTR	Copia	Ikeros	no	?	PROT|Ikeros GAG|Ikeros
+Asuec_chr_12:11033368..11036593#DNA/DTM|Asuec_chr_12:11033368..11036593#DNA/DTM	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE
+Asuec_chr_12:12967955..12973653#LTR/unknown|Asuec_chr_12:12967955..12973653#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM
+Asuec_chr_12:12968171..12972626#DNA/DTM|Asuec_chr_12:12968171..12972626#DNA/DTM	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+Asuec_chr_12:13471208..13478970#LTR/Copia|Asuec_chr_12:13471208..13478970#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca RT|Bianca RH|Bianca
+Asuec_chr_12:13932644..13937457#LTR/Copia|Asuec_chr_12:13932644..13937457#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+Asuec_chr_12:14364571..14373457#LTR/Gypsy|Asuec_chr_12:14364571..14373457#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Asuec_chr_12:14515505..14524310#LTR/Gypsy|Asuec_chr_12:14515505..14524310#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Asuec_chr_12:16487497..16493376#LTR/unknown|Asuec_chr_12:16487497..16493376#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM
+Asuec_chr_12:4136309..4140632#DNA/DTM|Asuec_chr_12:4136309..4140632#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+Asuec_chr_12:4136329..4140612#DNA/DTM|Asuec_chr_12:4136329..4140612#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+Asuec_chr_12:7854423..7867939#LTR/unknown|Asuec_chr_12:7854423..7867939#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM
+Asuec_chr_12:7857012..7862795#LTR/unknown|Asuec_chr_12:7857012..7862795#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+Asuec_chr_13:1461775..1466475#DNA/DTM|Asuec_chr_13:1461775..1466475#DNA/DTM	LTR	Gypsy	Athila	no	+	PROT|Athila
+Asuec_chr_13:15906810..15911442#LTR/Copia|Asuec_chr_13:15906810..15911442#LTR/Copia	LTR	Copia	TAR	no	-	PROT|TAR INT|TAR RT|TAR RH|TAR
+Asuec_chr_13:5090582..5098082#LTR/Gypsy|Asuec_chr_13:5090582..5098082#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Asuec_chr_13:6372041..6376443#DNA/DTM|Asuec_chr_13:6372041..6376443#DNA/DTM	LTR	Copia	SIRE	no	+	PROT|SIRE INT|SIRE RH|SIRE
+Asuec_chr_2:1748639..1750297#DNA/DTM|Asuec_chr_2:1748639..1750297#DNA/DTM	LTR	Gypsy	Reina	no	+	RH|Reina INT|Reina CHD|Reina
+Asuec_chr_2:276551..280572#DNA/DTC|Asuec_chr_2:276551..280572#DNA/DTC	LINE	unknown	unknown	unknown	-	RH|LINE
+Asuec_chr_2:8145338..8149977#DNA/DTH|Asuec_chr_2:8145338..8149977#DNA/DTH	LTR	Copia	Ikeros	no	+	RT|Ikeros RH|Ikeros
+Asuec_chr_3:11738748..11743728#LTR/Copia|Asuec_chr_3:11738748..11743728#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_3:12928714..12933913#LTR/Copia|Asuec_chr_3:12928714..12933913#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+Asuec_chr_3:14436635..14451932#DNA/Helitron|Asuec_chr_3:14436635..14451932#DNA/Helitron	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+Asuec_chr_3:15297721..15302701#LTR/Copia|Asuec_chr_3:15297721..15302701#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_4:1590350..1595962#LTR/Copia|Asuec_chr_4:1590350..1595962#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+Asuec_chr_4:3502540..3506047#DNA/DTT|Asuec_chr_4:3502540..3506047#DNA/DTT	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand
+Asuec_chr_5:14099917..14104744#DNA/DTM|Asuec_chr_5:14099917..14104744#DNA/DTM	LTR	Copia	Ivana	no	+	GAG|Ivana
+Asuec_chr_5:26365640..26367642#DNA/DTM|Asuec_chr_5:26365640..26367642#DNA/DTM	LINE	unknown	unknown	unknown	+	ENDO|LINE
+Asuec_chr_6:11020162..11028794#LTR/Gypsy|Asuec_chr_6:11020162..11028794#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+Asuec_chr_6:13912224..13917072#LTR/unknown|Asuec_chr_6:13912224..13917072#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM PROT|CRM CHDCR|CRM
+Asuec_chr_6:14148186..14152605#DNA/DTM|Asuec_chr_6:14148186..14152605#DNA/DTM	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+Asuec_chr_6:15160373..15172313#LTR/Copia|Asuec_chr_6:15160373..15172313#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_6:15302505..15308187#LTR/Copia|Asuec_chr_6:15302505..15308187#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_6:3930573..3932494#LTR/unknown|Asuec_chr_6:3930573..3932494#LTR/unknown	LTR	Copia	Ivana	no	+	PROT|Ivana
+Asuec_chr_6:8381553..8385496#LTR/Copia|Asuec_chr_6:8381553..8385496#LTR/Copia	LTR	Copia	Ivana	no	-	GAG|Ivana PROT|Ivana
+Asuec_chr_7:10481222..10484263#DNA/DTM|Asuec_chr_7:10481222..10484263#DNA/DTM	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+Asuec_chr_7:1059137..1061706#LTR/Gypsy|Asuec_chr_7:1059137..1061706#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina CHD|Reina
+Asuec_chr_7:1576878..1582263#LTR/Gypsy|Asuec_chr_7:1576878..1582263#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Asuec_chr_7:3713902..3718815#LTR/Copia|Asuec_chr_7:3713902..3718815#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_7:5395807..5398620#DNA/DTC|Asuec_chr_7:5395807..5398620#DNA/DTC	LTR	Gypsy	Retand	no	-	GAG|Retand
+Asuec_chr_7:6235058..6240694#LTR/Copia|Asuec_chr_7:6235058..6240694#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_7:7697585..7697947#MITE/DTC|Asuec_chr_7:7697585..7697947#MITE/DTC	LTR	Copia	Ivana	no	+	RH|Ivana
+Asuec_chr_7:8068503..8074210#LTR/unknown|Asuec_chr_7:8068503..8074210#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+Asuec_chr_7:9444686..9446438#DNA/DTH|Asuec_chr_7:9444686..9446438#DNA/DTH	LINE	unknown	unknown	unknown	+	RH|LINE
+Asuec_chr_8:1001613..1006478#LTR/Copia|Asuec_chr_8:1001613..1006478#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+Asuec_chr_8:11084310..11086984#DNA/DTC|Asuec_chr_8:11084310..11086984#DNA/DTC	LTR	Gypsy	Reina	no	+	GAG|Reina
+Asuec_chr_8:12493089..12498846#LTR/unknown|Asuec_chr_8:12493089..12498846#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM
+Asuec_chr_8:12620905..12626078#LTR/Copia|Asuec_chr_8:12620905..12626078#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+Asuec_chr_8:13642941..13657164#LTR/Copia|Asuec_chr_8:13642941..13657164#LTR/Copia	LTR	Copia	Ale	no	?	GAG|Ale INT|Ale RT|Ale RH|Ale PROT|Athila
+Asuec_chr_8:13645006..13650793#LTR/Copia|Asuec_chr_8:13645006..13650793#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_8:14395654..14400551#LTR/unknown|Asuec_chr_8:14395654..14400551#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM
+Asuec_chr_8:15503326..15513447#LTR/Gypsy|Asuec_chr_8:15503326..15513447#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand INT|Retand
+Asuec_chr_8:40312..44231#LTR/Gypsy|Asuec_chr_8:40312..44231#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM
+Asuec_chr_8:8341279..8346223#LTR/unknown|Asuec_chr_8:8341279..8346223#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM
+Asuec_chr_8:9008484..9012883#DNA/DTC|Asuec_chr_8:9008484..9012883#DNA/DTC	LTR	Copia	Ale	no	+	GAG|Ale
+Asuec_chr_8:9278779..9284298#LTR/Copia|Asuec_chr_8:9278779..9284298#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+Asuec_chr_9:4423047..4434842#LTR/Gypsy|Asuec_chr_9:4423047..4434842#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Asuec_chr_9:4922520..4932436#LTR/Gypsy|Asuec_chr_9:4922520..4932436#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+Asuec_chr_9:5648152..5652905#LTR/unknown|Asuec_chr_9:5648152..5652905#LTR/unknown	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Asuec_chr_9:5648847..5652620#DNA/DTM|Asuec_chr_9:5648847..5652620#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Asuec_chr_9:5679039..5694886#LTR/Gypsy|Asuec_chr_9:5679039..5694886#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|Athila CHDCR|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Asuec_chr_9:5695848..5699542#DNA/DTM|Asuec_chr_9:5695848..5699542#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Asuec_chr_9:5699550..5703017#DNA/DTM|Asuec_chr_9:5699550..5703017#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Asuec_chr_9:5703019..5707292#DNA/DTM|Asuec_chr_9:5703019..5707292#DNA/DTM	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+Asuec_chr_9:5777305..5791935#LTR/Copia|Asuec_chr_9:5777305..5791935#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+Asuec_chr_9:613042..619112#LTR/Copia|Asuec_chr_9:613042..619112#LTR/Copia	LTR	Copia	TAR	yes	-	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+Asuec_chr_9:6565573..6573876#LTR/Gypsy|Asuec_chr_9:6565573..6573876#LTR/Gypsy	LTR	Gypsy	Retand	no	-	PROT|Retand
+Asuec_chr_9:6604313..6611800#LTR/Gypsy|Asuec_chr_9:6604313..6611800#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Asuec_chr_9:9008216..9013937#LTR/unknown|Asuec_chr_9:9008216..9013937#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM
+Asuec_chr_9:9008432..9012910#DNA/DTM|Asuec_chr_9:9008432..9012910#DNA/DTM	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00000344|Asuec_chr_1:1317205..1321158#DNA/DTT	TIR	Tc1_Mariner	unknown	unknown	+	TPase|Tc1_Mariner
+TE_00000346|Asuec_chr_1:1910274..1925760#DNA/Helitron	LTR	Copia	Ale	yes	?	GAG|Tork PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000368|Asuec_chr_1:14002667..13988305#DNA/Helitron	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+TE_00000369|Asuec_chr_1:14135147..14119166#DNA/Helitron	LTR	Copia	SIRE	no	+	PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00000380|Asuec_chr_1:18873801..18884517#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000381|Asuec_chr_1:19811092..19800456#DNA/Helitron	Helitron	unknown	unknown	unknown	+	HEL1|Helitron HEL2|Helitron
+TE_00000394|Asuec_chr_2:2126244..2108712#DNA/Helitron	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00000398|Asuec_chr_2:4917849..4928456#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000405|Asuec_chr_2:6660198..6663190#DNA/DTM	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00000448|Asuec_chr_3:12308415..12325578#DNA/Helitron	Helitron	unknown	unknown	unknown	+	HEL1|Helitron HEL2|Helitron
+TE_00000449|Asuec_chr_3:13209179..13220403#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000450|Asuec_chr_3:14504290..14508382#DNA/DTA	TIR	hAT	unknown	unknown	-	TPase|hAT
+TE_00000463|Asuec_chr_4:4355205..4360273#DNA/Helitron	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000468|Asuec_chr_4:7176065..7156073#DNA/Helitron	LTR	Copia	Ale	no	-	GAG|Ale PROT|Ale
+TE_00000514|Asuec_chr_5:16734573..16722436#DNA/Helitron	LINE	unknown	unknown	unknown	-	RT|LINE
+TE_00000544|Asuec_chr_6:6921873..6925169#DNA/DTC	LINE	unknown	unknown	unknown	+	RH|LINE
+TE_00000561|Asuec_chr_6:13088275..13102644#DNA/Helitron	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00000573|Asuec_chr_6:17608550..17624372#DNA/Helitron	LINE	unknown	unknown	unknown	-	ENDO|LINE RT|LINE
+TE_00000590|Asuec_chr_7:4017966..4012445#DNA/Helitron	LINE	unknown	unknown	unknown	+	RH|LINE
+TE_00000591|Asuec_chr_7:4466649..4451900#DNA/Helitron	mixture	mixture	unknown	unknown	-	RT|LINE GAG|SIRE
+TE_00000595|Asuec_chr_7:5026212..5038018#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000655|Asuec_chr_8:14508416..14526594#DNA/Helitron	LTR	Gypsy	Galadriel	no	-	CHD|Galadriel
+TE_00000657|Asuec_chr_11:9187385..9197981#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000657|Asuec_chr_8:14935893..14946525#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000674|Asuec_chr_8:18442358..18431170#DNA/Helitron	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00000687|Asuec_chr_8:13339956..13343383#DNA/DTC	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+TE_00000687|Asuec_chr_9:3408261..3411919#DNA/DTC	TIR	EnSpm_CACTA	unknown	unknown	+	TPase|EnSpm_CACTA
+TE_00000688|Asuec_chr_9:4341660..4349305#DNA/Helitron	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+TE_00000691|Asuec_chr_9:6225090..6209220#DNA/Helitron	LTR	Gypsy	mixture	no	+	GAG|Retand INT|Athila
+TE_00000692|Asuec_chr_9:6742371..6756864#DNA/Helitron	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00000695|Asuec_chr_9:7534682..7520031#DNA/Helitron	LINE	unknown	unknown	unknown	+	ENDO|LINE RT|LINE RH|LINE
+TE_00000716|Asuec_chr_1:3096498..3108281#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:10153428..10165206#LTR/unknown	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:10167513..10179297#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:13908908..13920690#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:2185511..2197332#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:3740421..3752199#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:3807171..3818981#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:4484325..4496107#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:5092131..5103912#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:6429552..6441373#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_10:9191208..9202176#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:10279148..10290893#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:15127333..15139081#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:15127339..15139081#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:16028271..16040061#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:16049311..16061100#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:19259028..19270856#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:19928145..19939937#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_11:9383832..9395625#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_12:12255345..12267134#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_12:15521856..15533642#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_12:17152539..17164330#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_12:3577233..3589011#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_12:9752742..9764532#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_13:15029215..15040992#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_13:2920530..2932290#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_13:5520102..5531915#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_13:8579752..8591450#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:12572366..12584150#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:13276255..13288014#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:13448536..13460364#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:13545998..13557786#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:14261573..14273380#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:15909163..15924452#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:15909985..15921789#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:16621526..16633248#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:18287405..18299188#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:19071076..19082861#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:19478659..19490426#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_6:20816308..20828098#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:1929518..1941303#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:1975442..1987237#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:3262085..3273869#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:4114337..4126097#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:5481761..5493547#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:5959259..5971051#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:6034209..6046015#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:6776957..6786913#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_7:9867673..9879460#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:11943354..11955133#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:12090136..12101133#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:12105269..12116983#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:14235584..14247346#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:14824146..14835993#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:16366865..16379759#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:18243665..18255455#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_8:9307951..9319733#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:128781..140557#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:2085864..2097642#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:2133323..2145119#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:2271523..2283301#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:2911928..2923698#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:2911929..2923700#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:4066273..4078082#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000716|Asuec_chr_9:7076347..7088171#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000725|Asuec_chr_10:6833870..6852005#DNA/Helitron	LINE	unknown	unknown	unknown	-	RT|LINE RH|LINE
+TE_00000726|Asuec_chr_7:4932555..4942782#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000728|Asuec_chr_10:7351146..7363904#DNA/Helitron	LINE	unknown	unknown	unknown	+	RH|LINE
+TE_00000729|Asuec_chr_10:7772534..7787148#DNA/Helitron	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00000774|Asuec_chr_11:11440718..11425671#DNA/Helitron	Helitron	unknown	unknown	unknown	+	HEL1|Helitron HEL2|Helitron
+TE_00000780|Asuec_chr_11:14495062..14504066#DNA/Helitron	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00000810|Asuec_chr_12:5774535..5779021#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00000810|Asuec_chr_12:5774567..5778989#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00000827|Asuec_chr_12:15739824..15743234#DNA/DTT	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00000828|Asuec_chr_12:16284201..16290695#DNA/Helitron	LINE	unknown	unknown	unknown	-	RT|LINE
+TE_00000829|Asuec_chr_12:17052297..17032410#DNA/Helitron	LINE	unknown	unknown	unknown	-	RT|LINE RH|LINE
+TE_00000843|Asuec_chr_13:3580169..3599773#DNA/Helitron	mixture	mixture	unknown	unknown	-	HEL2|Helitron GAG|Bianca
+TE_00000846|Asuec_chr_13:4390091..4376821#DNA/Helitron	Helitron	unknown	unknown	unknown	-	HEL2|Helitron
+TE_00000849|Asuec_chr_13:6244661..6255819#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000859|Asuec_chr_10:6915446..6927290#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000859|Asuec_chr_11:11959149..11970967#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000859|Asuec_chr_13:4467323..4478270#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000859|Asuec_chr_13:9304924..9316776#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000859|Asuec_chr_8:16488715..16500307#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000869|Asuec_chr_11:13904789..13913752#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00000869|Asuec_chr_7:5971600..5980554#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000870|Asuec_chr_8:12006444..12013390#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00000871|Asuec_chr_10:15326693..15333609#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000871|Asuec_chr_10:8436653..8447071#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000871|Asuec_chr_7:9123328..9133669#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000873|Asuec_chr_3:12752096..12759727#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00000873|Asuec_chr_3:12949686..12957311#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00000873|Asuec_chr_4:4914347..4922381#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00000883|Asuec_chr_7:8649616..8654650#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000884|Asuec_chr_13:1657836..1660936#DNA/DTH	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+TE_00000885|Asuec_chr_1:15220435..15230735#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000889|Asuec_chr_2:6893259..6898023#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale INT|Ale RT|Ale RH|Ale
+TE_00000895|Asuec_chr_11:15071934..15078044#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00000897|Asuec_chr_7:12074551..12078168#LTR/Copia	LTR	Copia	Ale	no	+	INT|Ale RT|Ale RH|Ale
+TE_00000899|Asuec_chr_9:6071821..6076093#DNA/DTA	TIR	hAT	unknown	unknown	-	TPase|hAT
+TE_00000904|Asuec_chr_10:4741156..4747572#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand
+TE_00000905|Asuec_chr_2:2654607..2660947#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00000912|Asuec_chr_1:3308383..3313436#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000912|Asuec_chr_7:742356..747417#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000915|Asuec_chr_10:14439712..14443059#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+TE_00000919|Asuec_chr_1:11190915..11195680#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000919|Asuec_chr_3:16705612..16710428#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000920|Asuec_chr_13:15812629..15817525#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000922|Asuec_chr_8:5446631..5447781#DNA/DTH	TIR	PIF_Harbinger	unknown	unknown	-	TPase|PIF_Harbinger
+TE_00000928|Asuec_chr_2:10327551..10332293#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000931|Asuec_chr_10:8865276..8875277#LTR/Gypsy	LTR	Gypsy	Athila	no	-	PROT|Athila
+TE_00000936|Asuec_chr_5:13205415..13209424#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00000943|Asuec_chr_1:14357354..14362554#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00000947|Asuec_chr_8:13726163..13734773#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000947|Asuec_chr_9:3115476..3124109#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000950|Asuec_chr_13:10551781..10555216#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina
+TE_00000952|Asuec_chr_8:12031991..12036717#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000953|Asuec_chr_13:4482124..4487518#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000967|Asuec_chr_2:16183920..16187859#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00000968|Asuec_chr_3:15245947..15249831#DNA/DTA	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00000969|Asuec_chr_4:1853537..1858829#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000973|Asuec_chr_5:11794094..11805491#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000979|Asuec_chr_10:9893888..9898796#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000982|Asuec_chr_12:14263452..14269144#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000982|Asuec_chr_7:5627361..5633051#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000982|Asuec_chr_7:6186224..6191874#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000982|Asuec_chr_7:6589696..6595386#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000982|Asuec_chr_8:13550211..13555843#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000987|Asuec_chr_9:994625..999471#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000990|Asuec_chr_12:15025482..15034822#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000990|Asuec_chr_9:4961529..4970178#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000996|Asuec_chr_1:1911916..1917225#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00000996|Asuec_chr_11:18408304..18413585#LTR/Copia	LTR	Copia	Tork	no	+	GAG|Tork PROT|Tork INT|Tork RH|Tork
+TE_00000996|Asuec_chr_5:14619562..14624781#LTR/Copia	LTR	Copia	Tork	no	+	GAG|Tork PROT|Tork RT|Tork RH|Tork
+TE_00000999|Asuec_chr_11:11379507..11385397#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00000999|Asuec_chr_6:11233884..11239242#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001001|Asuec_chr_9:14762198..14766787#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001005|Asuec_chr_11:11939372..11948154#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001006|Asuec_chr_9:5440046..5445756#LTR/unknown	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00001009|Asuec_chr_9:4925010..4929356#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00001010|Asuec_chr_13:5816277..5821680#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001013|Asuec_chr_5:12580062..12586751#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001014|Asuec_chr_6:9688589..9694268#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001023|Asuec_chr_1:5494603..5497113#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001030|Asuec_chr_7:1959435..1964796#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001032|Asuec_chr_10:5913459..5919094#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001038|Asuec_chr_10:5175559..5184792#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001040|Asuec_chr_11:13403420..13411454#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001042|Asuec_chr_10:7625323..7630218#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001043|Asuec_chr_3:12634913..12645558#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand RT|Retand RH|Retand INT|Retand
+TE_00001044|Asuec_chr_11:17119644..17121993#LTR/unknown	LTR	Copia	Ivana	no	-	PROT|Ivana
+TE_00001044|Asuec_chr_12:16495070..16497418#LTR/unknown	LTR	Copia	Ivana	no	+	PROT|Ivana
+TE_00001044|Asuec_chr_6:18456140..18458484#LTR/unknown	LTR	Copia	Ivana	no	-	PROT|Ivana
+TE_00001050|Asuec_chr_6:11662798..11667716#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001051|Asuec_chr_11:12466110..12470889#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00001054|Asuec_chr_10:3299771..3305998#LTR/Copia	LTR	Copia	Bianca	no	-	GAG|Bianca RT|Bianca RH|Bianca
+TE_00001054|Asuec_chr_11:11855993..11861835#LTR/Copia	LTR	Copia	Bianca	no	+	GAG|Bianca RH|Bianca
+TE_00001068|Asuec_chr_12:17527517..17532053#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE
+TE_00001068|Asuec_chr_13:16087101..16091616#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE
+TE_00001070|Asuec_chr_11:17240130..17242039#LTR/unknown	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale RH|Ale
+TE_00001071|Asuec_chr_12:10499930..10504718#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001072|Asuec_chr_10:6714256..6716638#LTR/unknown	LTR	Gypsy	Reina	no	-	GAG|Reina
+TE_00001074|Asuec_chr_11:11846956..11851596#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001078|Asuec_chr_11:16694204..16697870#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE
+TE_00001078|Asuec_chr_7:15339876..15343546#LTR/Copia	LTR	Copia	SIRE	no	+	GAG|SIRE
+TE_00001078|Asuec_chr_7:4458152..4461810#LTR/Copia	LTR	Copia	SIRE	no	+	GAG|SIRE
+TE_00001078|Asuec_chr_7:620326..624006#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE
+TE_00001078|Asuec_chr_8:15542425..15546162#LTR/Copia	LTR	Copia	SIRE	no	+	GAG|SIRE
+TE_00001082|Asuec_chr_12:11440056..11445271#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001083|Asuec_chr_13:4390092..4393289#DNA/Helitron	Helitron	unknown	unknown	unknown	+	HEL2|Helitron
+TE_00001084|Asuec_chr_8:4051108..4055758#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001093|Asuec_chr_12:7762622..7774097#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001093|Asuec_chr_13:11071677..11081840#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001093|Asuec_chr_7:5314564..5326018#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001093|Asuec_chr_8:6655644..6667240#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001094|Asuec_chr_11:9649880..9654893#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001096|Asuec_chr_13:15267613..15273225#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand
+TE_00001099|Asuec_chr_1:873248..878120#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001099|Asuec_chr_13:2083377..2088248#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001101|Asuec_chr_3:20734005..20737044#DNA/Helitron	LTR	Copia	Ale	no	-	RH|Ale
+TE_00001103|Asuec_chr_2:4084874..4091458#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001103|Asuec_chr_3:12115795..12122709#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001103|Asuec_chr_3:13320162..13327874#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001103|Asuec_chr_3:14957033..14964652#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001103|Asuec_chr_3:23302896..23310624#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001103|Asuec_chr_5:7507469..7515113#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001103|Asuec_chr_5:9850730..9858442#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001105|Asuec_chr_3:12648007..12652497#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001106|Asuec_chr_13:4132260..4138897#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001106|Asuec_chr_7:5512894..5519507#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001106|Asuec_chr_7:7731501..7738163#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001107|Asuec_chr_3:11270633..11276425#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001107|Asuec_chr_4:6682823..6688498#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001111|Asuec_chr_2:6038999..6044178#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001114|Asuec_chr_5:10593194..10598385#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001124|Asuec_chr_10:3883386..3886428#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina CHD|Reina
+TE_00001125|Asuec_chr_3:17139621..17141453#DNA/DTT	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00001134|Asuec_chr_12:929066..934375#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001135|Asuec_chr_3:11261746..11266837#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001145|Asuec_chr_13:3361321..3366301#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001146|Asuec_chr_10:13756428..13761244#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001146|Asuec_chr_10:9099061..9103877#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001146|Asuec_chr_11:899120..903936#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001146|Asuec_chr_13:16010513..16015329#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001146|Asuec_chr_5:3261575..3266393#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001157|Asuec_chr_2:5470500..5475763#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001158|Asuec_chr_12:8606752..8612346#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001159|Asuec_chr_2:9992013..9996749#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001160|Asuec_chr_1:21054868..21060290#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001160|Asuec_chr_1:22132188..22137618#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001160|Asuec_chr_2:8033202..8038616#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001160|Asuec_chr_3:16384313..16394314#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001160|Asuec_chr_3:16388007..16393430#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001160|Asuec_chr_3:22422568..22427995#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001160|Asuec_chr_3:3174011..3179452#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001166|Asuec_chr_10:4637662..4649200#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_10:5485185..5496775#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_11:13951841..13963335#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_11:20036832..20048163#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_12:17810651..17822145#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_12:8923564..8935174#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_13:7951439..7963056#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_8:13288990..13300446#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_8:15528325..15539922#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_8:9046149..9057561#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_9:12739996..12751477#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001166|Asuec_chr_9:5061977..5073478#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001169|Asuec_chr_4:4165035..4171572#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001172|Asuec_chr_13:3914046..3918427#DNA/DTA	TIR	hAT	unknown	unknown	-	TPase|hAT
+TE_00001183|Asuec_chr_3:17813475..17818612#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001184|Asuec_chr_4:549795..555059#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001189|Asuec_chr_6:14755061..14767852#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001190|Asuec_chr_6:21818321..21825951#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001194|Asuec_chr_10:2329060..2336284#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001194|Asuec_chr_10:6406707..6413908#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001194|Asuec_chr_13:5413736..5420947#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001194|Asuec_chr_6:6743804..6751040#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001194|Asuec_chr_8:12852030..12859263#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001194|Asuec_chr_9:13167449..13174701#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001194|Asuec_chr_9:6186224..6193455#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001196|Asuec_chr_4:15198982..15204026#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001200|Asuec_chr_13:3804932..3816628#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001201|Asuec_chr_10:14011614..14016891#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001202|Asuec_chr_5:8512330..8515746#LTR/Copia	LTR	Copia	Ivana	no	-	GAG|Ivana PROT|Ivana
+TE_00001203|Asuec_chr_12:13331473..13334603#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina CHD|Reina
+TE_00001204|Asuec_chr_4:11449882..11454761#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001205|Asuec_chr_9:60548..65235#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001214|Asuec_chr_8:16089470..16094156#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001224|Asuec_chr_10:2988694..2993461#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001227|Asuec_chr_6:12092138..12096757#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001230|Asuec_chr_1:12604620..12609312#DNA/DTC	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+TE_00001232|Asuec_chr_10:5344605..5351424#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001232|Asuec_chr_10:5445678..5452347#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001232|Asuec_chr_11:13173813..13180560#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001232|Asuec_chr_12:14346852..14353578#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001232|Asuec_chr_12:14745847..14752855#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001232|Asuec_chr_13:4670969..4677945#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001232|Asuec_chr_3:8572504..8578711#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001232|Asuec_chr_4:4145642..4152810#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001232|Asuec_chr_7:5575609..5582366#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001232|Asuec_chr_7:5604145..5611012#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001232|Asuec_chr_8:14006853..14013922#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001238|Asuec_chr_1:13718465..13723172#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001239|Asuec_chr_13:8851520..8856992#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001241|Asuec_chr_10:10355287..10360499#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_11:11291987..11298482#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_11:5216222..5221445#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_11:8606373..8611592#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_12:16089487..16094827#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_12:17257928..17263087#LTR/Copia	LTR	Copia	Bianca	no	-	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_13:2199614..2204981#LTR/Copia	LTR	Copia	Bianca	no	-	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_13:6642286..6647682#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_6:21507010..21512244#LTR/Copia	LTR	Copia	Bianca	no	-	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_6:5051563..5056905#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_7:14055502..14060731#LTR/Copia	LTR	Copia	Bianca	no	-	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_7:5432578..5437918#LTR/Copia	LTR	Copia	Bianca	no	-	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_8:16273852..16279171#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_8:17497117..17500414#LTR/unknown	LTR	Copia	Bianca	no	+	RH|Bianca
+TE_00001241|Asuec_chr_8:2287578..2292905#LTR/Copia	LTR	Copia	Bianca	no	-	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_8:4268643..4274026#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_9:1702765..1707993#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_9:3942474..3947916#LTR/Copia	LTR	Copia	Bianca	no	-	RT|Bianca RH|Bianca
+TE_00001241|Asuec_chr_9:4119228..4123618#LTR/unknown	LTR	Copia	Bianca	no	+	RH|Bianca
+TE_00001241|Asuec_chr_9:7070176..7074519#LTR/unknown	LTR	Copia	Bianca	no	+	RH|Bianca
+TE_00001245|Asuec_chr_4:4348899..4352459#LTR/unknown	LTR	Copia	Bianca	no	-	RH|Bianca
+TE_00001252|Asuec_chr_9:3611099..3614060#DNA/DTT	TIR	Tc1_Mariner	unknown	unknown	-	TPase|Tc1_Mariner
+TE_00001257|Asuec_chr_12:9494966..9499632#LTR/Copia	LTR	Copia	Tork	no	-	PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001263|Asuec_chr_2:5028096..5032628#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001276|Asuec_chr_8:6391571..6393400#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001278|Asuec_chr_6:21068829..21073761#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_10:5740157..5745366#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale PROT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_11:12201639..12207137#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_11:12242047..12248914#LTR/Copia	LTR	Copia	Ale	yes	?	GAG|Ale PROT|Ale CHDCR|CRM INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_11:12422348..12428135#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_11:12476733..12482235#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_11:13076948..13082752#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_11:13580182..13593927#LTR/unknown	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001280|Asuec_chr_12:14173871..14179498#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_12:14209500..14215016#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_12:14234916..14249111#LTR/unknown	LTR	Copia	Ale	no	?	INT|Ale RT|Ale RH|Ale PROT|Athila GAG|Athila
+TE_00001280|Asuec_chr_12:14548448..14554060#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_13:4782138..4787943#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_13:5100200..5105714#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_6:15445517..15451135#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_6:15491066..15496580#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_7:5566395..5572174#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_8:13113809..13119586#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_8:14095675..14101480#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_8:14126061..14131864#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_9:4729871..4735680#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001280|Asuec_chr_9:5162174..5173666#LTR/Copia	LTR	Copia	Ale	no	?	CHDCR|CRM PROT|Ale INT|Ale RT|Ale RH|Ale GAG|CRM
+TE_00001280|Asuec_chr_9:5163091..5168737#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001288|Asuec_chr_2:18811838..18815269#LTR/Copia	LTR	Copia	Ale	no	?	RH|Ale GAG|Ale INT|Ale RT|Ale
+TE_00001292|Asuec_chr_11:11799927..11808299#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand INT|Retand
+TE_00001292|Asuec_chr_13:4149388..4158175#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand INT|Retand
+TE_00001293|Asuec_chr_11:14110784..14115752#LTR/Gypsy	LTR	Gypsy	CRM	no	-	CHDCR|CRM GAG|CRM
+TE_00001293|Asuec_chr_12:13966672..13971639#LTR/Gypsy	LTR	Gypsy	CRM	no	+	CHDCR|CRM GAG|CRM
+TE_00001294|Asuec_chr_11:13548667..13552982#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00001302|Asuec_chr_1:24143224..24148178#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_1:3256544..3261498#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_1:8794934..8799891#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_10:10538298..10543254#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_11:19272213..19277159#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_12:18121570..18126504#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_2:1870591..1875546#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_3:12797848..12802805#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_3:7397663..7402620#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_4:6872469..6877424#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_5:22186832..22191807#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_5:2981223..2986174#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_6:11804358..11810275#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_6:4947572..4952527#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001302|Asuec_chr_9:10305701..10310655#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001307|Asuec_chr_3:14353883..14359096#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001309|Asuec_chr_6:18031185..18036045#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001310|Asuec_chr_12:3954151..3959383#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001313|Asuec_chr_3:23012828..23018395#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001317|Asuec_chr_13:2132349..2134614#LTR/Copia	LTR	Copia	Ale	no	-	RT|Ale RH|Ale
+TE_00001317|Asuec_chr_5:25751177..25752944#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001320|Asuec_chr_7:11131383..11136459#LTR/Copia	LTR	Copia	Alesia	yes	+	GAG|Alesia PROT|Alesia INT|Alesia RT|Alesia RH|Alesia
+TE_00001320|Asuec_chr_9:6089809..6094861#LTR/Copia	LTR	Copia	Alesia	yes	-	GAG|Alesia PROT|Alesia INT|Alesia RT|Alesia RH|Alesia
+TE_00001321|Asuec_chr_12:17796505..17803398#LTR/Copia	LTR	Copia	Angela	no	+	PROT|Angela INT|Angela RT|Angela RH|Angela
+TE_00001321|Asuec_chr_9:4325788..4332703#LTR/Copia	LTR	Copia	Angela	no	+	PROT|Angela INT|Angela RT|Angela RH|Angela
+TE_00001329|Asuec_chr_4:3367001..3376856#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_1:14606298..14616953#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_2:2981905..2992572#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_2:3445889..3456502#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_2:3615184..3632136#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_4:3667070..3677584#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_4:3805895..3816614#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_4:4090143..4107008#LTR/Gypsy	LTR	Gypsy	CRM	no	?	GAG|Athila INT|CRM RH|CRM RT|CRM PROT|CRM CHDCR|CRM
+TE_00001330|Asuec_chr_4:4091536..4102057#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_4:4236880..4247389#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001330|Asuec_chr_5:12003550..12014276#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001332|Asuec_chr_9:5088855..5097260#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001336|Asuec_chr_3:16784833..16790103#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001338|Asuec_chr_6:8341747..8346793#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001338|Asuec_chr_6:8341747..8346813#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001343|Asuec_chr_11:15811286..15813721#LTR/unknown	LTR	Gypsy	Reina	no	-	CHD|Reina
+TE_00001343|Asuec_chr_12:12409957..12412931#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina CHD|Reina
+TE_00001343|Asuec_chr_6:7132742..7135173#LTR/unknown	LTR	Gypsy	Reina	no	+	CHD|Reina
+TE_00001347|Asuec_chr_6:5895411..5899095#LTR/Copia	LTR	Copia	Ivana	no	-	GAG|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001349|Asuec_chr_1:13369819..13374613#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001350|Asuec_chr_2:1865673..1870298#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001356|Asuec_chr_11:12298646..12305007#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001356|Asuec_chr_3:12688377..12694790#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001356|Asuec_chr_4:2868799..2875190#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001356|Asuec_chr_8:14675521..14681898#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001356|Asuec_chr_9:1002718..1009095#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001357|Asuec_chr_6:18854071..18857826#LTR/Copia	LTR	Copia	Ivana	no	+	INT|Ivana
+TE_00001359|Asuec_chr_1:16319477..16324448#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001359|Asuec_chr_3:19140344..19145315#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001359|Asuec_chr_6:3466290..3471261#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001362|Asuec_chr_12:6844482..6849370#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001362|Asuec_chr_2:10820103..10824991#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001368|Asuec_chr_10:4394960..4407199#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_11:13709961..13722290#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_11:13765999..13774668#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_11:14312847..14324927#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00001368|Asuec_chr_11:14382515..14394383#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_11:14394884..14407240#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_11:14508138..14520473#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00001368|Asuec_chr_11:14632041..14643778#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_12:13458882..13470854#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00001368|Asuec_chr_12:15006487..15018818#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_13:4266968..4278899#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00001368|Asuec_chr_6:13306036..13317807#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_6:16579723..16591970#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001368|Asuec_chr_9:4520366..4531626#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001369|Asuec_chr_10:5750406..5763952#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001372|Asuec_chr_4:3152721..3163382#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001372|Asuec_chr_4:4279055..4289596#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001373|Asuec_chr_4:14479488..14483269#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00001375|Asuec_chr_4:6389918..6394996#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001377|Asuec_chr_3:11118087..11123519#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001385|Asuec_chr_8:17411742..17416664#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001387|Asuec_chr_7:11772936..11773738#DNA/DTT	LINE	unknown	unknown	unknown	+	RH|LINE
+TE_00001390|Asuec_chr_3:13496897..13498463#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001396|Asuec_chr_12:15087059..15087957#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001396|Asuec_chr_12:15088325..15089223#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001396|Asuec_chr_12:15094261..15095159#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001396|Asuec_chr_13:4873956..4874854#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001396|Asuec_chr_13:5090605..5091503#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001396|Asuec_chr_13:5096833..5097731#DNA/DTM	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001405|Asuec_chr_11:12828027..12833866#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001405|Asuec_chr_11:13446409..13452249#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001405|Asuec_chr_12:18530366..18535988#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001405|Asuec_chr_13:4964648..4970414#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001405|Asuec_chr_9:15393127..15398654#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001405|Asuec_chr_9:5609689..5615500#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001406|Asuec_chr_2:1790456..1795168#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001406|Asuec_chr_4:10447722..10452439#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001411|Asuec_chr_12:2955043..2959747#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001417|Asuec_chr_9:9604786..9609670#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001417|Asuec_chr_9:9604806..9609667#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001421|Asuec_chr_12:2597696..2602821#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001424|Asuec_chr_10:4379868..4383785#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001424|Asuec_chr_10:4379869..4383784#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001425|Asuec_chr_10:374497..378400#LTR/Copia	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale RT|Ale RH|Ale
+TE_00001426|Asuec_chr_5:21835919..21841067#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001433|Asuec_chr_9:3465433..3479126#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001434|Asuec_chr_8:8486594..8490151#DNA/DTA	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00001434|Asuec_chr_8:8490238..8493795#DNA/DTA	TIR	hAT	unknown	unknown	-	TPase|hAT
+TE_00001440|Asuec_chr_9:1357973..1376498#DNA/Helitron	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001444|Asuec_chr_5:12042842..12047595#DNA/DTH	TIR	PIF_Harbinger	unknown	unknown	+	TPase|PIF_Harbinger
+TE_00001445|Asuec_chr_12:15908753..15915880#LTR/Gypsy	LTR	Gypsy	Athila	no	+	PROT|Athila
+TE_00001447|Asuec_chr_3:12715705..12728145#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001447|Asuec_chr_3:12719185..12725660#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001449|Asuec_chr_9:4896623..4902181#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00001451|Asuec_chr_2:3412828..3417862#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001453|Asuec_chr_2:3916764..3922530#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001454|Asuec_chr_13:1461536..1467473#LTR/unknown	LTR	Gypsy	Athila	no	+	PROT|Athila
+TE_00001455|Asuec_chr_8:15003684..15006794#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina CHD|Reina
+TE_00001460|Asuec_chr_10:6742414..6746832#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001461|Asuec_chr_6:11688276..11693240#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001468|Asuec_chr_1:13357301..13360451#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina PROT|Reina
+TE_00001475|Asuec_chr_3:10489482..10494968#LTR/Copia	LTR	Copia	Tork	no	+	GAG|Tork
+TE_00001476|Asuec_chr_3:10953516..10958383#LTR/unknown	LTR	Copia	Bianca	no	+	RH|Bianca
+TE_00001482|Asuec_chr_1:3607844..3612456#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001482|Asuec_chr_13:15493859..15498472#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001482|Asuec_chr_8:1759111..1763723#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001483|Asuec_chr_10:5159141..5170889#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001483|Asuec_chr_12:14640873..14652386#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001483|Asuec_chr_12:15584683..15598939#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001494|Asuec_chr_6:11302161..11306879#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001498|Asuec_chr_3:15477879..15482461#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001499|Asuec_chr_8:7260381..7266041#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001499|Asuec_chr_8:7260390..7266038#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001500|Asuec_chr_11:17505092..17507495#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001501|Asuec_chr_10:4091323..4094835#LTR/unknown	LTR	Gypsy	Reina	no	-	GAG|Reina
+TE_00001506|Asuec_chr_13:12939985..12944752#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001507|Asuec_chr_12:18322701..18328638#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca GAG|Bianca RH|Bianca
+TE_00001510|Asuec_chr_1:18340928..18345639#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001510|Asuec_chr_1:21376146..21380871#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001510|Asuec_chr_4:10803884..10808607#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001511|Asuec_chr_10:8096172..8101185#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001511|Asuec_chr_13:2158242..2163188#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001514|Asuec_chr_9:9151123..9153321#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001514|Asuec_chr_9:9151136..9153321#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001517|Asuec_chr_1:19205947..19208329#LTR/Copia	LTR	Copia	Ale	no	-	RT|Ale RH|Ale
+TE_00001518|Asuec_chr_5:15068655..15073628#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001519|Asuec_chr_10:6514458..6519569#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001519|Asuec_chr_2:7759304..7764415#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001519|Asuec_chr_4:14547377..14552488#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001519|Asuec_chr_7:14887458..14892833#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001526|Asuec_chr_7:14569552..14571690#LTR/Copia	LTR	Copia	Ivana	no	-	GAG|Ivana PROT|Ivana
+TE_00001529|Asuec_chr_10:16348208..16353659#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001536|Asuec_chr_10:8926859..8934631#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand aRH|Retand INT|Retand
+TE_00001536|Asuec_chr_11:11341500..11349332#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand PROT|Retand aRH|Retand INT|Retand
+TE_00001540|Asuec_chr_2:5901807..5908792#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001540|Asuec_chr_2:5902830..5908027#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001540|Asuec_chr_3:10593171..10598369#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001547|Asuec_chr_11:12409136..12417670#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001548|Asuec_chr_8:10133372..10137394#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001550|Asuec_chr_7:6930188..6944467#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001556|Asuec_chr_6:15652717..15658375#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001560|Asuec_chr_2:1148106..1153698#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001562|Asuec_chr_1:16155969..16158536#DNA/DTH	LTR	Copia	Ale	no	-	INT|Ale
+TE_00001566|Asuec_chr_10:11206363..11211231#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001566|Asuec_chr_13:15479974..15484821#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001568|Asuec_chr_9:4611527..4616736#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001568|Asuec_chr_9:5541232..5547910#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001570|Asuec_chr_11:15613891..15618316#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001578|Asuec_chr_1:16720557..16722944#LTR/Copia	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana RH|Ivana
+TE_00001578|Asuec_chr_5:22934534..22936926#LTR/Copia	LTR	Copia	Ivana	no	+	GAG|Ivana PROT|Ivana RH|Ivana
+TE_00001579|Asuec_chr_10:13961960..13966888#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001579|Asuec_chr_13:1971387..1976315#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001580|Asuec_chr_1:15917879..15922704#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001585|Asuec_chr_9:10659018..10663958#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001586|Asuec_chr_2:6442842..6447564#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001590|Asuec_chr_12:17169255..17173253#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001595|Asuec_chr_12:15043992..15051458#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001595|Asuec_chr_6:13781638..13789271#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001595|Asuec_chr_6:16213579..16221112#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001595|Asuec_chr_7:5745489..5753122#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001595|Asuec_chr_7:6714450..6722084#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001595|Asuec_chr_8:13372778..13380409#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001595|Asuec_chr_8:13514032..13521498#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001595|Asuec_chr_9:1889995..1897458#LTR/Gypsy	LTR	Gypsy	Tekay	yes	-	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001597|Asuec_chr_11:19664166..19669531#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001597|Asuec_chr_5:10372617..10377226#LTR/Copia	LTR	Copia	Tork	no	-	PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001598|Asuec_chr_12:17838291..17843884#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001602|Asuec_chr_1:16525502..16530658#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001605|Asuec_chr_6:18008249..18013273#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001607|Asuec_chr_4:2319506..2324858#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001608|Asuec_chr_12:7334472..7339362#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001610|Asuec_chr_13:2089349..2099497#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001615|Asuec_chr_2:1851782..1857029#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001615|Asuec_chr_2:3760722..3765114#LTR/Copia	LTR	Copia	Tork	no	+	GAG|Tork INT|Tork RT|Tork RH|Tork
+TE_00001619|Asuec_chr_1:9435313..9439921#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001619|Asuec_chr_9:6523476..6528088#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001626|Asuec_chr_9:2329611..2334225#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001633|Asuec_chr_12:11727280..11728449#DNA/DTC	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00001634|Asuec_chr_2:10044365..10048311#LTR/Copia	LTR	Copia	Ivana	no	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana
+TE_00001636|Asuec_chr_10:5599208..5604260#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM RT|CRM CHDCR|CRM
+TE_00001636|Asuec_chr_13:5199954..5205005#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM RT|CRM CHDCR|CRM
+TE_00001637|Asuec_chr_1:10487108..10491740#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001638|Asuec_chr_10:5947011..5960701#LTR/Gypsy	LTR	Gypsy	CRM	no	?	PROT|CRM GAG|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001638|Asuec_chr_10:5948998..5956004#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001638|Asuec_chr_4:2464630..2471660#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001638|Asuec_chr_8:3108018..3115024#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001638|Asuec_chr_9:8519521..8525806#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001645|Asuec_chr_12:17507330..17509299#DNA/DTA	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00001655|Asuec_chr_13:5160918..5172741#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001656|Asuec_chr_3:11998169..12002044#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001656|Asuec_chr_3:11998262..12001951#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001668|Asuec_chr_10:10449231..10454341#LTR/Copia	LTR	Copia	Tork	no	+	GAG|Tork PROT|Tork INT|Tork RH|Tork
+TE_00001671|Asuec_chr_1:24726618..24731038#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00001673|Asuec_chr_12:11943804..11949206#LTR/Copia	LTR	Copia	TAR	yes	-	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+TE_00001673|Asuec_chr_6:13751433..13755019#LTR/Copia	LTR	Copia	TAR	no	+	RT|TAR RH|TAR
+TE_00001675|Asuec_chr_13:661964..669546#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00001675|Asuec_chr_4:1418664..1427740#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00001675|Asuec_chr_5:8167461..8175873#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00001681|Asuec_chr_5:11165494..11174436#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001682|Asuec_chr_12:13672941..13684882#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001684|Asuec_chr_2:1506597..1507899#DNA/DTM	LTR	Copia	TAR	no	+	GAG|TAR
+TE_00001686|Asuec_chr_1:13466247..13471435#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001687|Asuec_chr_11:4776852..4781596#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001687|Asuec_chr_11:7868753..7873492#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001687|Asuec_chr_12:6920301..6925009#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001701|Asuec_chr_3:14282678..14287393#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001701|Asuec_chr_3:9581731..9586444#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001701|Asuec_chr_5:10724291..10729006#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001702|Asuec_chr_10:11063690..11068459#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001706|Asuec_chr_4:1577871..1583208#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001713|Asuec_chr_12:12818978..12824119#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001717|Asuec_chr_10:2160687..2165682#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001717|Asuec_chr_13:1943339..1948335#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001720|Asuec_chr_8:583441..586726#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE
+TE_00001725|Asuec_chr_3:13683799..13697244#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001725|Asuec_chr_4:3691034..3704647#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001726|Asuec_chr_5:10524668..10529113#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001727|Asuec_chr_1:2981064..2986090#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001730|Asuec_chr_2:4983564..4987713#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001730|Asuec_chr_4:4111664..4114725#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00001736|Asuec_chr_2:1517970..1523138#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001736|Asuec_chr_2:2520559..2525734#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001736|Asuec_chr_4:2180267..2185437#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001736|Asuec_chr_5:13664479..13669669#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001742|Asuec_chr_12:16788966..16795763#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001744|Asuec_chr_11:11821426..11826790#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001747|Asuec_chr_4:1494161..1499443#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001747|Asuec_chr_7:11583578..11588882#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001754|Asuec_chr_6:17364119..17368905#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001754|Asuec_chr_9:1033917..1038734#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001755|Asuec_chr_5:16162597..16167376#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001763|Asuec_chr_11:14830847..14839151#DNA/Helitron	Helitron	unknown	unknown	unknown	+	HEL2|Helitron
+TE_00001766|Asuec_chr_1:23148537..23153502#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_1:25778233..25783198#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_1:26369987..26374952#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_10:15213897..15218867#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_11:4895087..4900052#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_13:1020651..1025616#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_3:21645041..21650006#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_3:9178481..9183446#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001766|Asuec_chr_7:15658872..15663837#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001769|Asuec_chr_1:20537457..20543377#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001769|Asuec_chr_2:8023178..8029061#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001769|Asuec_chr_4:6986788..6992674#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001769|Asuec_chr_5:15854041..15859920#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001769|Asuec_chr_6:1686819..1692705#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001777|Asuec_chr_5:10013141..10018240#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001778|Asuec_chr_1:22448228..22453094#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001782|Asuec_chr_12:2251980..2256926#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001792|Asuec_chr_3:12471065..12484696#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001793|Asuec_chr_10:2961364..2966626#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001799|Asuec_chr_8:18306389..18296040#DNA/Helitron	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+TE_00001800|Asuec_chr_8:12635826..12640768#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001803|Asuec_chr_6:13114288..13119109#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001805|Asuec_chr_5:13186096..13191157#LTR/Copia	LTR	Copia	Ale	no	-	PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001809|Asuec_chr_8:15954607..15959715#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001810|Asuec_chr_1:20850878..20856711#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00001810|Asuec_chr_3:15011725..15017538#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00001810|Asuec_chr_4:2299500..2305355#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00001814|Asuec_chr_10:4703510..4708277#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001814|Asuec_chr_6:12183391..12188215#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001814|Asuec_chr_9:8219240..8224113#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001815|Asuec_chr_5:2456237..2458620#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001825|Asuec_chr_8:15110469..15115702#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00001826|Asuec_chr_8:12543848..12548549#DNA/Helitron	LINE	unknown	unknown	unknown	+	RT|LINE
+TE_00001828|Asuec_chr_9:6731646..6736359#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001829|Asuec_chr_10:6107549..6115166#LTR/Copia	LTR	Copia	TAR	yes	+	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+TE_00001829|Asuec_chr_8:12333165..12338974#LTR/Copia	LTR	Copia	TAR	yes	-	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+TE_00001838|Asuec_chr_7:5670078..5676471#LTR/Gypsy	LTR	Gypsy	Athila	no	-	INT|Athila
+TE_00001841|Asuec_chr_4:4062896..4065601#DNA/DTC	TIR	EnSpm_CACTA	unknown	unknown	-	TPase|EnSpm_CACTA
+TE_00001848|Asuec_chr_6:18503126..18510643#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001848|Asuec_chr_9:4566873..4574420#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001854|Asuec_chr_10:4602219..4613794#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001854|Asuec_chr_11:13496213..13507711#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001854|Asuec_chr_6:14690893..14702597#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001854|Asuec_chr_7:6303590..6315299#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001854|Asuec_chr_9:3629720..3641401#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001854|Asuec_chr_9:898187..909655#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001855|Asuec_chr_12:9961682..9966577#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001860|Asuec_chr_11:17697815..17703027#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001860|Asuec_chr_9:10990196..10993535#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001861|Asuec_chr_12:6823975..6828419#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM RT|Reina INT|CRM
+TE_00001861|Asuec_chr_7:15800039..15804390#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM INT|CRM
+TE_00001866|Asuec_chr_1:11711900..11716870#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001866|Asuec_chr_5:19074281..19079236#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001881|Asuec_chr_12:9771636..9776458#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001881|Asuec_chr_3:7761512..7766246#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001883|Asuec_chr_12:10917466..10923044#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001891|Asuec_chr_9:9484855..9476909#DNA/Helitron	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001893|Asuec_chr_1:16195644..16205653#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00001894|Asuec_chr_12:5189743..5192595#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale RT|Ale RH|Ale
+TE_00001895|Asuec_chr_6:15055422..15060389#LTR/unknown	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001910|Asuec_chr_6:16940846..16944421#DNA/DTA	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00001911|Asuec_chr_11:14087700..14104523#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00001914|Asuec_chr_13:11494035..11500036#LTR/Gypsy	pararetrovirus	unknown	unknown	unknown	+	PROT|pararetrovirus RT|pararetrovirus RH|non-chromo-outgroup
+TE_00001918|Asuec_chr_5:12392404..12405238#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001923|Asuec_chr_10:5368970..5383326#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001923|Asuec_chr_10:5543971..5558336#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001927|Asuec_chr_6:7680827..7685496#LTR/unknown	LTR	Copia	Tork	no	?	RH|Tork RT|Tork INT|Tork
+TE_00001927|Asuec_chr_6:8115759..8121548#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001928|Asuec_chr_1:4341876..4346814#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001928|Asuec_chr_13:7254596..7259539#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001928|Asuec_chr_6:9855612..9860550#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001931|Asuec_chr_3:14031993..14033647#LTR/unknown	LTR	Copia	Bianca	no	-	RH|Bianca
+TE_00001931|Asuec_chr_3:15520820..15524203#LTR/unknown	LTR	Copia	Bianca	no	+	RH|Bianca
+TE_00001931|Asuec_chr_5:18636420..18641557#LTR/unknown	LTR	Copia	Bianca	no	-	RH|Bianca
+TE_00001931|Asuec_chr_5:23361462..23366567#LTR/unknown	LTR	Copia	Bianca	no	-	RH|Bianca
+TE_00001931|Asuec_chr_6:4483091..4488206#LTR/unknown	LTR	Copia	Bianca	no	-	RH|Bianca
+TE_00001932|Asuec_chr_4:15893126..15897883#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001932|Asuec_chr_4:18399094..18403851#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00001936|Asuec_chr_1:14474057..14484079#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001936|Asuec_chr_1:14938712..14948486#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001941|Asuec_chr_6:15075624..15080640#LTR/unknown	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00001941|Asuec_chr_7:6400274..6405291#LTR/unknown	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+TE_00001941|Asuec_chr_8:13149317..13153836#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00001944|Asuec_chr_4:2065284..2070507#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00001949|Asuec_chr_10:4954529..4963199#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001949|Asuec_chr_10:5291379..5300023#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001949|Asuec_chr_8:13027280..13035814#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001953|Asuec_chr_1:16957525..16961234#LTR/Copia	LTR	Copia	Ale	no	+	INT|Ale RT|Ale RH|Ale
+TE_00001954|Asuec_chr_1:15877313..15886087#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001954|Asuec_chr_3:14112581..14121403#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00001959|Asuec_chr_3:15330039..15336316#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001959|Asuec_chr_4:3083259..3089559#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001962|Asuec_chr_1:13177661..13180577#LTR/Copia	LTR	Copia	Bianca	no	+	RT|Bianca RH|Bianca
+TE_00001962|Asuec_chr_7:7008877..7014908#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00001963|Asuec_chr_8:12660031..12663638#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE
+TE_00001963|Asuec_chr_8:13545098..13548687#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE
+TE_00001965|Asuec_chr_12:4560812..4569256#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00001968|Asuec_chr_1:24568493..24570930#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001974|Asuec_chr_9:63432..78752#DNA/Helitron	LTR	Copia	Ale	no	-	GAG|Ale PROT|Ale
+TE_00001975|Asuec_chr_11:14582252..14593670#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001975|Asuec_chr_12:13769712..13781118#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001975|Asuec_chr_13:5129819..5141336#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001975|Asuec_chr_5:11514570..11526148#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001975|Asuec_chr_5:12701923..12713412#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001975|Asuec_chr_7:4671253..4682583#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00001977|Asuec_chr_5:18326715..18329293#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+TE_00001978|Asuec_chr_3:15383625..15392290#LTR/Copia	LTR	Copia	Ikeros	no	-	GAG|Ikeros PROT|Ikeros RT|Ikeros RH|Ikeros
+TE_00001980|Asuec_chr_11:12496184..12503055#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001980|Asuec_chr_11:12659997..12666870#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00001982|Asuec_chr_6:14887588..14890689#DNA/DTA	TIR	hAT	unknown	unknown	-	TPase|hAT
+TE_00001983|Asuec_chr_11:3119451..3124265#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001983|Asuec_chr_9:1244150..1248964#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001985|Asuec_chr_12:15395968..15401131#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00001988|Asuec_chr_9:2297349..2299528#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00001989|Asuec_chr_2:5452835..5464518#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001989|Asuec_chr_3:14634342..14645660#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001996|Asuec_chr_11:13902126..13919864#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00001998|Asuec_chr_10:6944940..6951773#LTR/Copia	LTR	Copia	Ikeros	yes	+	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+TE_00001998|Asuec_chr_11:7540779..7547547#LTR/Copia	LTR	Copia	Ikeros	yes	-	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+TE_00001998|Asuec_chr_12:10341310..10353175#LTR/Copia	LTR	Copia	Ikeros	no	?	RH|Ikeros RT|Ikeros PROT|Ikeros GAG|Ikeros INT|Ikeros
+TE_00001998|Asuec_chr_13:14135548..14141185#LTR/Copia	LTR	Copia	Ikeros	no	+	GAG|Ikeros PROT|Ikeros RT|Ikeros RH|Ikeros
+TE_00001998|Asuec_chr_13:6308598..6316563#LTR/Copia	LTR	Copia	Ikeros	yes	-	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+TE_00001998|Asuec_chr_6:20911965..20918290#LTR/Copia	LTR	Copia	Ikeros	yes	+	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+TE_00001998|Asuec_chr_7:8623348..8630182#LTR/Copia	LTR	Copia	Ikeros	yes	+	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+TE_00001998|Asuec_chr_9:10233766..10240597#LTR/Copia	LTR	Copia	Ikeros	yes	+	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+TE_00002014|Asuec_chr_3:14462636..14466009#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina PROT|Reina
+TE_00002015|Asuec_chr_13:5337672..5342600#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00002017|Asuec_chr_11:16902286..16907274#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002020|Asuec_chr_2:4614420..4619335#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002022|Asuec_chr_10:15221678..15227359#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002022|Asuec_chr_10:2339466..2345152#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002022|Asuec_chr_11:3207470..3213156#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002022|Asuec_chr_13:6435978..6441659#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002025|Asuec_chr_1:16987967..16991111#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+TE_00002028|Asuec_chr_3:13766381..13779622#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002028|Asuec_chr_3:14123872..14137867#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002028|Asuec_chr_4:3536427..3550445#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002031|Asuec_chr_13:293027..297889#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002032|Asuec_chr_2:4012891..4016574#LTR/Copia	LTR	Copia	Ale	no	-	PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002039|Asuec_chr_10:6573120..6580008#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE PROT|SIRE INT|SIRE RH|SIRE
+TE_00002039|Asuec_chr_13:6356524..6363817#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE PROT|SIRE INT|SIRE RH|SIRE
+TE_00002041|Asuec_chr_11:15760669..15766649#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RH|Bianca
+TE_00002041|Asuec_chr_7:7425066..7431017#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RH|Bianca
+TE_00002045|Asuec_chr_6:19690805..19696251#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002046|Asuec_chr_3:15250600..15259752#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002049|Asuec_chr_11:9269915..9283093#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002060|Asuec_chr_10:5677362..5686399#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_11:12711476..12720529#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_11:13099415..13108241#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_11:13197991..13207000#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_11:13336510..13345395#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_11:13827559..13836377#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_12:14323407..14332230#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_12:16351074..16359797#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_13:4877080..4886096#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_13:5369822..5378674#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_6:15313320..15322341#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_7:5614061..5623056#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_7:6225764..6234560#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_8:13195516..13204389#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_8:13834438..13843260#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_9:4809119..4818015#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_9:5531733..5540601#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002060|Asuec_chr_9:5778498..5787515#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002061|Asuec_chr_10:2930620..2938152#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002061|Asuec_chr_11:15985272..15992812#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002061|Asuec_chr_12:13605622..13613159#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002061|Asuec_chr_8:8772116..8779651#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002065|Asuec_chr_8:9011290..9016263#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002071|Asuec_chr_6:14097633..14102298#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002072|Asuec_chr_7:4811427..4817736#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002073|Asuec_chr_6:8638257..8643212#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002077|Asuec_chr_11:10846660..10852312#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002077|Asuec_chr_4:6512748..6518163#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002078|Asuec_chr_11:7891187..7896125#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002078|Asuec_chr_13:1162141..1167079#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002081|Asuec_chr_6:20134190..20138776#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002082|Asuec_chr_6:20373172..20378505#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002087|Asuec_chr_6:18651351..18655817#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002088|Asuec_chr_3:11031352..11036061#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002090|Asuec_chr_7:358751..362551#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002091|Asuec_chr_11:12883111..12889622#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_11:12891058..12897569#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_6:13343085..13349783#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_7:6570556..6577079#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_8:12626607..12633130#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_8:13596949..13603064#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_8:13868935..13875458#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_9:5037972..5044495#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002091|Asuec_chr_9:5496485..5503008#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002092|Asuec_chr_10:864293..869172#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002092|Asuec_chr_6:20899902..20904823#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002092|Asuec_chr_7:4981345..4987524#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002092|Asuec_chr_7:4981930..4986829#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002092|Asuec_chr_9:1768913..1773834#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002097|Asuec_chr_10:15465531..15470250#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002097|Asuec_chr_6:7423350..7428069#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002101|Asuec_chr_10:16141984..16146940#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002101|Asuec_chr_11:19214043..19219161#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002105|Asuec_chr_10:11096291..11101343#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002106|Asuec_chr_10:11394958..11399772#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002106|Asuec_chr_12:6508752..6513551#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002106|Asuec_chr_7:2031015..2035871#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002106|Asuec_chr_7:8480904..8485706#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002106|Asuec_chr_9:8476471..8481299#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002109|Asuec_chr_12:17760766..17765760#LTR/unknown	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00002109|Asuec_chr_13:5361105..5365655#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM
+TE_00002116|Asuec_chr_3:13407634..13422984#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002116|Asuec_chr_3:13408000..13418051#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002118|Asuec_chr_8:9412183..9416981#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002119|Asuec_chr_4:11598696..11604261#LTR/Gypsy	LTR	Gypsy	Reina	yes	-	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00002120|Asuec_chr_11:17483600..17488889#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002121|Asuec_chr_12:847027..855932#LTR/unknown	LINE	unknown	unknown	unknown	-	RH|LINE
+TE_00002124|Asuec_chr_11:13521369..13529733#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002124|Asuec_chr_11:13521369..13535115#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002124|Asuec_chr_11:13634200..13642625#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002124|Asuec_chr_6:15553301..15561495#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002125|Asuec_chr_3:11635963..11643503#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00002127|Asuec_chr_5:22548837..22553965#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002128|Asuec_chr_3:15451617..15456577#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002128|Asuec_chr_9:13133092..13138007#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002130|Asuec_chr_9:3868656..3874478#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila
+TE_00002136|Asuec_chr_13:2938571..2943602#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002136|Asuec_chr_7:8291373..8296245#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002136|Asuec_chr_8:6532099..6537057#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002149|Asuec_chr_5:11950188..11960327#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002154|Asuec_chr_6:6358707..6362147#LTR/unknown	LTR	Gypsy	non-chromo-outgroup	no	-	RT|non-chromo-outgroup
+TE_00002155|Asuec_chr_3:14586929..14597957#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand aRH|Retand INT|Retand
+TE_00002156|Asuec_chr_7:2832550..2842246#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00002157|Asuec_chr_2:3988144..3999755#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002160|Asuec_chr_2:2605912..2612577#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002166|Asuec_chr_11:17296578..17298573#LTR/unknown	LTR	Copia	Ivana	no	+	PROT|Ivana
+TE_00002169|Asuec_chr_11:2495520..2500303#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002170|Asuec_chr_4:11135339..11140443#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002171|Asuec_chr_10:14875461..14885381#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002171|Asuec_chr_11:19944422..19954742#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002171|Asuec_chr_12:12665839..12676085#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002171|Asuec_chr_12:13910258..13920557#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00002171|Asuec_chr_12:15615922..15626195#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002171|Asuec_chr_7:1452579..1462441#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002171|Asuec_chr_8:16238531..16248846#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002171|Asuec_chr_8:17059225..17069515#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002172|Asuec_chr_8:2442009..2452337#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM RT|CRM RH|CRM INT|CRM
+TE_00002176|Asuec_chr_1:11030905..11034760#LTR/Copia	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale INT|Ale RH|Ale
+TE_00002176|Asuec_chr_6:14951015..14955982#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002177|Asuec_chr_12:17779304..17781312#DNA/DTA	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00002182|Asuec_chr_11:6691453..6696372#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002182|Asuec_chr_7:14250639..14255586#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002185|Asuec_chr_8:16827889..16829656#LTR/Copia	LTR	Copia	Ivana	no	+	GAG|Ivana
+TE_00002187|Asuec_chr_5:13502882..13506371#DNA/DTM	TIR	hAT	unknown	unknown	-	TPase|hAT
+TE_00002191|Asuec_chr_4:676562..681503#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002194|Asuec_chr_10:7391704..7400248#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002194|Asuec_chr_6:17244255..17252719#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002194|Asuec_chr_7:13011790..13020255#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002194|Asuec_chr_8:16933666..16942135#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002197|Asuec_chr_9:3908316..3911501#LTR/unknown	LTR	Gypsy	Reina	no	+	GAG|Reina
+TE_00002198|Asuec_chr_1:29114165..29118792#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002200|Asuec_chr_12:11718446..11723237#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002202|Asuec_chr_5:21043394..21048305#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002207|Asuec_chr_5:13954710..13964300#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00002212|Asuec_chr_11:15939555..15944428#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002213|Asuec_chr_11:2387725..2390885#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	-	TPase|MuDR_Mutator
+TE_00002214|Asuec_chr_4:6173869..6165227#DNA/Helitron	Helitron	unknown	unknown	unknown	+	HEL1|Helitron HEL2|Helitron
+TE_00002216|Asuec_chr_1:3404766..3415104#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002216|Asuec_chr_10:8798834..8809379#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002216|Asuec_chr_11:16699151..16709664#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002216|Asuec_chr_7:10590460..10600843#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002220|Asuec_chr_6:11819165..11823680#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00002220|Asuec_chr_6:11819166..11823679#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00002221|Asuec_chr_5:16530586..16534435#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00002225|Asuec_chr_13:4591438..4597039#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002225|Asuec_chr_6:15134024..15146142#LTR/unknown	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002228|Asuec_chr_1:822362..828609#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002228|Asuec_chr_10:11549215..11555415#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RH|Bianca
+TE_00002228|Asuec_chr_12:9848097..9854008#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002228|Asuec_chr_3:4345084..4350839#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RH|Bianca
+TE_00002228|Asuec_chr_4:3738684..3744642#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002228|Asuec_chr_7:6883041..6888878#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002228|Asuec_chr_8:5027822..5033644#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RH|Bianca
+TE_00002232|Asuec_chr_9:16435267..16439863#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002238|Asuec_chr_9:947397..958665#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002241|Asuec_chr_7:4710001..4715294#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002252|Asuec_chr_10:1122887..1129661#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00002252|Asuec_chr_12:11141967..11148751#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00002258|Asuec_chr_11:16485429..16490256#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002267|Asuec_chr_12:9422893..9428314#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002267|Asuec_chr_6:14965874..14969794#LTR/Copia	LTR	Copia	Ale	no	-	PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002268|Asuec_chr_5:6543369..6546538#DNA/DTA	TIR	hAT	unknown	unknown	-	TPase|hAT
+TE_00002269|Asuec_chr_13:6476750..6481534#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002275|Asuec_chr_13:11289568..11294411#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002275|Asuec_chr_7:8361526..8366371#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002276|Asuec_chr_11:7226692..7231804#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00002276|Asuec_chr_13:3856244..3861357#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00002278|Asuec_chr_5:14236522..14239712#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00002283|Asuec_chr_7:6919318..6924341#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00002285|Asuec_chr_11:13290342..13296904#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila
+TE_00002289|Asuec_chr_10:14151715..14156987#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00002297|Asuec_chr_8:18304671..18310364#LTR/unknown	LTR	Gypsy	CRM	no	+	CHDCR|CRM GAG|CRM
+TE_00002299|Asuec_chr_10:7889819..7892407#LTR/Copia	LTR	Copia	Tork	no	-	RT|Tork RH|Tork
+TE_00002302|Asuec_chr_12:13216423..13221377#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002302|Asuec_chr_2:4112162..4117132#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002308|Asuec_chr_2:8950731..8955816#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002309|Asuec_chr_3:15019085..15024570#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002310|Asuec_chr_11:12982367..12996577#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002310|Asuec_chr_11:13157932..13172247#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002314|Asuec_chr_10:4731778..4738176#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002314|Asuec_chr_10:5267632..5274013#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002314|Asuec_chr_10:5928124..5934923#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00002314|Asuec_chr_13:5532740..5539144#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00002314|Asuec_chr_9:5682493..5689277#LTR/Gypsy	LTR	Gypsy	CRM	yes	-	CHDCR|CRM GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00002321|Asuec_chr_6:6516943..6521022#LTR/unknown	LTR	Copia	Ivana	no	+	INT|Ivana
+TE_00002328|Asuec_chr_1:17035193..17039722#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002328|Asuec_chr_6:12263254..12268106#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002328|Asuec_chr_8:7736362..7741214#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002330|Asuec_chr_3:17692569..17694467#DNA/DTM	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00002333|Asuec_chr_5:1304420..1308641#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00002338|Asuec_chr_1:4648641..4653480#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002338|Asuec_chr_11:1641075..1645939#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002338|Asuec_chr_8:7492295..7496216#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002339|Asuec_chr_13:4478393..4481277#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina
+TE_00002343|Asuec_chr_10:10221071..10227610#LTR/Copia	LTR	Copia	Ikeros	yes	+	GAG|Ikeros PROT|Ikeros INT|Ikeros RT|Ikeros RH|Ikeros
+TE_00002348|Asuec_chr_6:10501507..10503728#LTR/Copia	LTR	Copia	Ivana	no	+	GAG|Ivana RH|Ivana
+TE_00002349|Asuec_chr_6:5756304..5759193#LTR/Gypsy	LTR	Gypsy	Reina	no	+	CHD|Reina
+TE_00002350|Asuec_chr_4:3714979..3721257#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002350|Asuec_chr_9:11836525..11842825#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002351|Asuec_chr_1:17847226..17848771#DNA/DTA	TIR	hAT	unknown	unknown	+	TPase|hAT
+TE_00002352|Asuec_chr_8:10151435..10161695#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002356|Asuec_chr_3:14215614..14226818#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002356|Asuec_chr_3:14291869..14302903#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002356|Asuec_chr_3:16412501..16423577#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002356|Asuec_chr_5:10683732..10694893#LTR/Gypsy	LTR	Gypsy	Athila	no	-	GAG|Athila PROT|Athila
+TE_00002363|Asuec_chr_10:8208556..8214480#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_10:9073028..9077362#LTR/Copia	LTR	Copia	Bianca	no	-	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_11:10856608..10862540#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_12:4252022..4258030#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_13:6482675..6489927#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_7:10580636..10586593#LTR/Copia	LTR	Copia	Bianca	yes	+	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_7:9696456..9702463#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_8:11586462..11592781#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002363|Asuec_chr_8:17048838..17054809#LTR/Copia	LTR	Copia	Bianca	yes	-	GAG|Bianca PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00002364|Asuec_chr_4:15391576..15394895#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina
+TE_00002374|Asuec_chr_12:9951567..9959452#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002374|Asuec_chr_6:13136144..13143358#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE PROT|SIRE INT|SIRE RH|SIRE
+TE_00002374|Asuec_chr_6:13146647..13153859#LTR/Copia	LTR	Copia	SIRE	no	-	GAG|SIRE PROT|SIRE INT|SIRE RH|SIRE
+TE_00002375|Asuec_chr_13:3752610..3757891#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002375|Asuec_chr_3:11988342..11992836#LTR/Copia	LTR	Copia	Tork	no	+	GAG|Tork PROT|Tork RH|Tork
+TE_00002381|Asuec_chr_13:7800660..7808298#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002383|Asuec_chr_11:16088054..16092668#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002383|Asuec_chr_6:11141547..11146176#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002388|Asuec_chr_10:5697628..5711772#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_11:11744928..11758663#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_11:12255038..12269299#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_11:12548012..12558961#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_12:14111531..14125180#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_12:14298563..14312155#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_12:14438560..14450905#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_13:5465263..5476084#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_6:15401089..15415311#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_7:6535684..6547476#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_7:6951732..6965234#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_8:13133385..13147184#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_8:13747741..13759174#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_8:13967081..13980864#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_8:14054739..14062356#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002388|Asuec_chr_9:3075626..3086547#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_9:4694291..4708096#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_9:5349847..5363436#LTR/Gypsy	LTR	Gypsy	Athila	yes	-	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002388|Asuec_chr_9:5370505..5381523#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00002393|Asuec_chr_1:14256802..14262050#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00002394|Asuec_chr_1:1449937..1452971#LTR/Copia	LTR	Copia	Ivana	no	+	INT|Ivana GAG|Ivana PROT|Ivana
+TE_00002394|Asuec_chr_10:3934699..3939489#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002394|Asuec_chr_2:14384880..14389698#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002394|Asuec_chr_2:570902..575720#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002394|Asuec_chr_6:14148113..14152898#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002396|Asuec_chr_11:17479194..17491333#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002400|Asuec_chr_13:5615004..5617553#DNA/DTM	TIR	MuDR_Mutator	unknown	unknown	+	TPase|MuDR_Mutator
+TE_00002402|Asuec_chr_2:6072159..6083152#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002402|Asuec_chr_4:5149844..5161502#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002404|Asuec_chr_1:1911645..1921714#LTR/Copia	LTR	Copia	Ale	no	?	PROT|Tork GAG|Tork INT|Ale RT|Ale RH|Ale
+TE_00002413|Asuec_chr_10:6104714..6117585#DNA/Helitron	LTR	Copia	TAR	yes	+	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+TE_00002420|Asuec_chr_10:11786559..11795516#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002420|Asuec_chr_6:15699783..15708748#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002420|Asuec_chr_7:11547832..11556797#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002420|Asuec_chr_9:16548937..16557915#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002420|Asuec_chr_9:16548939..16557917#LTR/Copia	LTR	Copia	SIRE	yes	-	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00002428|Asuec_chr_10:8124385..8128813#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002430|Asuec_chr_2:1745394..1750700#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00002438|Asuec_chr_9:1637604..1642174#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002457|Asuec_chr_1:16769495..16774355#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002459|Asuec_chr_11:70769..75368#LTR/Copia	LTR	Copia	Ivana	yes	-	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002461|Asuec_chr_3:4435246..4438330#LTR/Gypsy	LTR	Gypsy	Reina	no	-	GAG|Reina PROT|Reina
+TE_00002470|Asuec_chr_13:14836606..14841771#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand
+TE_00002471|Asuec_chr_5:11038959..11046745#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00002474|Asuec_chr_4:9589267..9594404#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002475|Asuec_chr_2:9507650..9512839#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002475|Asuec_chr_3:16244810..16250189#LTR/Copia	LTR	Copia	Tork	yes	-	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002475|Asuec_chr_4:8914839..8920165#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002478|Asuec_chr_11:13422684..13427242#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00002478|Asuec_chr_4:2417247..2421412#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00002478|Asuec_chr_6:15435432..15440167#LTR/Gypsy	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00002478|Asuec_chr_7:6155462..6160197#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00002478|Asuec_chr_8:14044551..14049292#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00002480|Asuec_chr_13:4707131..4712705#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002480|Asuec_chr_13:5013903..5019479#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002480|Asuec_chr_6:15039894..15045500#LTR/Copia	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale INT|Ale RT|Ale
+TE_00002480|Asuec_chr_6:15252696..15258324#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002480|Asuec_chr_6:15522252..15527880#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002480|Asuec_chr_7:1992326..1997877#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002480|Asuec_chr_8:13907247..13912802#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002486|Asuec_chr_10:4750697..4762316#LTR/Gypsy	LTR	Gypsy	Retand	no	-	GAG|Retand
+TE_00002489|Asuec_chr_6:15947101..15952055#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002490|Asuec_chr_13:11372358..11377606#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002490|Asuec_chr_8:1978249..1983496#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002491|Asuec_chr_6:16934300..16938537#LTR/Copia	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale INT|Ale RH|Ale
+TE_00002495|Asuec_chr_10:9852709..9863067#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002495|Asuec_chr_8:13677184..13687477#LTR/Gypsy	LTR	Gypsy	Retand	yes	-	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00002501|Asuec_chr_13:2964205..2968973#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00002502|Asuec_chr_5:11184985..11190060#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00002503|Asuec_chr_12:14144320..14149322#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00002503|Asuec_chr_9:5253403..5258048#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00002503|Asuec_chr_9:5275597..5280242#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00002503|Asuec_chr_9:5448678..5453322#LTR/unknown	LTR	Gypsy	CRM	no	-	GAG|CRM CHDCR|CRM
+TE_00002508|Asuec_chr_12:17591949..17593546#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00002508|Asuec_chr_3:16747724..16751389#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale PROT|Ale RT|Ale RH|Ale
+TE_00002509|Asuec_chr_11:12686224..12690813#LTR/unknown	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00002509|Asuec_chr_13:4742037..4746734#LTR/unknown	LTR	Gypsy	CRM	no	-	CHDCR|CRM
+TE_00002513|Asuec_chr_10:13567533..13570839#LTR/Copia	LTR	Copia	Ale	no	-	GAG|Ale PROT|Ale INT|Ale RH|Ale
+TE_00002513|Asuec_chr_13:12982639..12987580#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002513|Asuec_chr_6:4657331..4662272#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002513|Asuec_chr_6:4657343..4662272#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002513|Asuec_chr_8:223469..228410#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00002513|Asuec_chr_8:223481..228410#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00001138|Asuec_chr_2:2583965..2587003#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00001712|Asuec_chr_4:1717187..1720200#LTR/unknown	LTR	Copia	unknown	none	?	none
+TE_00001308|Asuec_chr_4:9696735..9701788#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00001712|Asuec_chr_5:8912005..8915040#LTR/Copia	LTR	Copia	unknown	none	?	none
+TE_00002247|Asuec_chr_6:15860229..15865259#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002247|Asuec_chr_6:15882146..15887176#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00000931|Asuec_chr_6:21727066..21732423#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002486|Asuec_chr_7:5795255..5801527#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002486|Asuec_chr_7:6662143..6668415#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002486|Asuec_chr_7:7746052..7751721#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00001712|Asuec_chr_7:8023022..8025887#LTR/unknown	LTR	Copia	unknown	none	?	none
+TE_00001712|Asuec_chr_7:8929447..8932322#LTR/unknown	LTR	Copia	unknown	none	?	none
+TE_00000931|Asuec_chr_7:8961535..8966924#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00000931|Asuec_chr_7:10383587..10389023#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002486|Asuec_chr_8:13232441..13238703#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002435|Asuec_chr_8:17768907..17770421#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002486|Asuec_chr_9:41128..46464#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002362|Asuec_chr_9:5182215..5187113#LTR/unknown	LINE	unknown	unknown	none	?	none
+TE_00002060|Asuec_chr_9:5289431..5296215#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00000931|Asuec_chr_9:8536786..8542136#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002121|Asuec_chr_9:8741916..8749373#LTR/unknown	LINE	unknown	unknown	none	?	none
+TE_00002486|Asuec_chr_10:4751367..4757222#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00001712|Asuec_chr_11:3174441..3177405#LTR/unknown	LTR	Copia	unknown	none	?	none
+TE_00001006|Asuec_chr_11:12360473..12365308#LTR/unknown	LINE	unknown	unknown	none	?	none
+TE_00002060|Asuec_chr_11:12458494..12465343#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00002060|Asuec_chr_11:13132317..13139014#LTR/unknown	LTR	Copia	unknown	none	?	none
+TE_00002060|Asuec_chr_12:14556751..14563636#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00001516|Asuec_chr_12:14575794..14582000#LTR/unknown	LTR	Gypsy	unknown	none	?	none
+TE_00001357|Asuec_chr_12:17085357..17089107#LTR/Copia	LTR	Copia	unknown	none	?	none
+TE_00001006|Asuec_chr_13:4976717..4981809#LTR/unknown	LINE	unknown	unknown	none	?	none
+TE_00002060|Asuec_chr_13:5322853..5329552#LTR/unknown	LTR	Copia	unknown	none	?	none
+TE_00001812|Asuec_chr_13:7759131..7762824#LTR/Copia	LTR	Copia	unknown	none	?	none
+TE_00001034|Asuec_chr_1:2900999..2902257#DNA/DTM	TIR	MuDR_Mutator	unknown	none	?	none
+TE_00000371|Asuec_chr_1:14763841..14768665#DNA/DTC	TIR	EnSpm_CACTA	unknown	none	?	none
+Asuec_chr_2:2585018..2586569#DNA/DTM|Asuec_chr_2:2585018..2586569#DNA/DTM	LTR	Gypsy	unknown	none	?	none
+TE_00000406|Asuec_chr_2:7469408..7470795#DNA/DTA	TIR	hAT	unknown	none	?	none
+TE_00002514|Asuec_chr_2:16149958..16150678#DNA/DTM	TIR	MuDR_Mutator	unknown	none	?	none
+TE_00002514|Asuec_chr_2:16149959..16150677#DNA/DTM	TIR	MuDR_Mutator	unknown	none	?	none
+TE_00001434|Asuec_chr_6:6008511..6009125#DNA/DTA	TIR	hAT	unknown	none	?	none
+Asuec_chr_6:13096714..13098383#DNA/DTA|Asuec_chr_6:13096714..13098383#DNA/DTA	LINE	unknown	unknown	none	?	none
+Asuec_chr_6:13720177..13724105#DNA/DTM|Asuec_chr_6:13720177..13724105#DNA/DTM	LTR	Gypsy	unknown	none	?	none
+TE_00000574|Asuec_chr_6:17847820..17849144#DNA/DTC	LTR	Gypsy	unknown	none	?	none
+TE_00001215|Asuec_chr_6:21148131..21148975#DNA/DTC	LTR	Gypsy	unknown	none	?	none
+Asuec_chr_7:8876694..8877291#MITE/DTA|Asuec_chr_7:8876694..8877291#MITE/DTA	TIR	hAT	unknown	none	?	none
+TE_00000882|Asuec_chr_7:14476501..14477061#MITE/DTA	LTR	Copia	unknown	none	?	none
+TE_00001348|Asuec_chr_8:10163200..10164421#DNA/DTA	TIR	hAT	unknown	none	?	none
+TE_00001912|Asuec_chr_8:11227284..11227621#MITE/DTM	LTR	Copia	unknown	none	?	none
+TE_00001912|Asuec_chr_8:11413371..11413708#MITE/DTM	LTR	Copia	unknown	none	?	none
+Asuec_chr_9:920414..921100#DNA/DTA|Asuec_chr_9:920414..921100#DNA/DTA	LTR	Copia	unknown	none	?	none
+TE_00001434|Asuec_chr_9:1064232..1065026#DNA/DTA	TIR	hAT	unknown	none	?	none
+Asuec_chr_9:6054074..6054637#MITE/DTA|Asuec_chr_9:6054074..6054637#MITE/DTA	LTR	Copia	unknown	none	?	none
+Asuec_chr_9:7114993..7115470#MITE/DTM|Asuec_chr_9:7114993..7115470#MITE/DTM	TIR	MuDR_Mutator	unknown	none	?	none
+Asuec_chr_10:5254139..5255238#DNA/DTM|Asuec_chr_10:5254139..5255238#DNA/DTM	LTR	Gypsy	unknown	none	?	none
+Asuec_chr_10:5255246..5256345#DNA/DTM|Asuec_chr_10:5255246..5256345#DNA/DTM	LTR	Gypsy	unknown	none	?	none
+TE_00000934|Asuec_chr_10:6111004..6111925#DNA/DTM	LTR	Copia	unknown	none	?	none
+TE_00000934|Asuec_chr_10:6111005..6111924#DNA/DTM	LTR	Copia	unknown	none	?	none
+Asuec_chr_10:6210706..6212261#DNA/DTM|Asuec_chr_10:6210706..6212261#DNA/DTM	LTR	Gypsy	unknown	none	?	none
+TE_00000761|Asuec_chr_11:6203537..6206108#DNA/DTC	LTR	Copia	unknown	none	?	none
+Asuec_chr_11:11429311..11434077#DNA/DTC|Asuec_chr_11:11429311..11434077#DNA/DTC	Helitron	unknown	unknown	none	?	none
+TE_00000882|Asuec_chr_11:18914837..18915398#MITE/DTA	LTR	Copia	unknown	none	?	none
+TE_00002514|Asuec_chr_12:9536742..9537460#DNA/DTM	TIR	MuDR_Mutator	unknown	none	?	none
+TE_00001900|Asuec_chr_4:7621087..7621775#DNA/Helitron	TIR	EnSpm_CACTA	unknown	none	?	none

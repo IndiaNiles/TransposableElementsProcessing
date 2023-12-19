@@ -133,7 +133,10 @@ for filename in os.listdir(directory):
     stat_out = [pd.concat([stat_out[0], processed_data[2]], ignore_index=True),
                 pd.concat([stat_out[1], processed_data[3]], ignore_index=True)]
 
-data_out[0].to_csv('ltr_gypsy_processed.tsv', sep="\t")
-data_out[1].to_csv('ltr_copia_processed.tsv', sep="\t")
-stat_out[0].to_csv('ltr_gypsy_stats.tsv', sep="\t")
-stat_out[1].to_csv('ltr_copia_stats.tsv', sep="\t")
+if not os.path.exists('out'):
+    os.makedirs('out')
+
+data_out[0].to_csv('out/ltr_gypsy_processed.tsv', sep="\t")
+data_out[1].to_csv('out/ltr_copia_processed.tsv', sep="\t")
+stat_out[0].to_csv('out/ltr_gypsy_stats.tsv', sep="\t")
+stat_out[1].to_csv('out/ltr_copia_stats.tsv', sep="\t")
